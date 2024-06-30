@@ -1,4 +1,4 @@
-# Machine-Learning-Portfolio 💥
+# Machine-Learning-Portfolio
 
 This is a repository of the projects I worked on or currently working on. It is updated regularly. I also have the Jupyter Notebook version of some of my Kaggle and Google Colaboratory kernels here.
 
